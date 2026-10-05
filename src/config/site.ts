@@ -1,0 +1,35 @@
+export const siteConfig = {
+  name: "Whitfield Dermatology",
+  description: "Board-certified dermatology, skin surgery, and advanced skin therapies in Green Hills — with same-week appointments.",
+  url: "https://whitfielddermatology.com",
+  location: {
+    address: "2102 Crestmoor Road, Suite 300",
+    city: "Nashville",
+    state: "TN",
+    zip: "37215",
+    area: "Green Hills",
+  },
+  contact: {
+    phone: "(615) 555-0192",
+    email: "care@whitfielddermatology.com",
+  },
+  stats: {
+    founded: 2011,
+    years: 14,
+    patientVisits: 60000,
+    screenings: 25000,
+    rating: 4.9,
+    reviews: 427,
+  },
+  hours: "Mon–Fri 7:30am–5:30pm",
+  areasServed: [
+    "Nashville",
+    "Franklin",
+    "Brentwood",
+    "Murfreesboro",
+    "Hendersonville",
+    "Mt. Juliet",
+    "Spring Hill",
+    "Gallatin",
+  ],
+};
